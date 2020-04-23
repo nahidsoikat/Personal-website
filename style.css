@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name{
+    color: pink;
+}
+
+.full{
+    width: 30%;
+    float: left;
+    padding: 5%;
+    margin: 3%;
+}
+.full img{
+    width: 90%;
+    height: 100%;
+}
+.top{
+    background-image: url("photos/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+}
+.anchor{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color:wheat;
+    font-size: 700;
+}
+.up{
+    background-image: url("photos/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.text{
+    text-align: center;
+}
+.the{
+    width: 30%;
+    float: left;
+    margin: 1.50%;
+    
+}
+.the img{
+    width: 100%;
+    height: 100%;
+}
+.there{
+    background-image: url("photos/header-bg.png");
+    background-repeat: no-repeat;
+}
+.for{
+    text-align: center;
+}
+#and{
+    font-size: 50Px;
+}
+.boro{
+    background-color: tomato;
+    height: 25%;
+    margin: 2% 23% 2% 23%;
+    border-radius: 50px;
+    
+}
+#size{
+    font-size: larger;
+}
+.back{
+    background-image: url("photos/footer-bg.png");
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
